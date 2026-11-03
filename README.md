@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mahlet%20Belete&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mahletbelete">
     <img src="https://komarev.com/ghpvc/?username=mahletbelete&label=Profile%20views&color=00FFFF&style=flat-square" alt="mahletbelete's profile views" />
   </a>
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
 
