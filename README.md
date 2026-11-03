@@ -79,6 +79,31 @@
 
 </p>
 
+## 🏆 Certifications & Achievements
+
+<p align="center">
+  <a href="./assets/certificates/AI%20udacity%20certificate.pdf">
+    <img src="https://placehold.co/500x350/161b22/58a6ff?text=AI+Udacity+Certificate" width="45%" alt="AI Udacity Certificate"/>
+  </a>
+  <a href="./assets/certificates/Hultprize%20cirtificate%202026.jpg">
+    <img src="./assets/certificates/Hultprize%20cirtificate%202026.jpg" width="45%" alt="Hult Prize Certificate 2026"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(1).PDF">
+    <img src="https://placehold.co/500x350/161b22/58a6ff?text=Udacity+Certificate+2" width="45%" alt="Udacity Certificate 2"/>
+  </a>
+  <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(2).PDF">
+    <img src="https://placehold.co/500x350/161b22/58a6ff?text=Udacity+Certificate+3" width="45%" alt="Udacity Certificate 3"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity.PDF">
+    <img src="https://placehold.co/500x350/161b22/58a6ff?text=Udacity+Certificate+4" width="45%" alt="Udacity Certificate 4"/>
+  </a>
+</p>
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
