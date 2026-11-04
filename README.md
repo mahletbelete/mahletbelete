@@ -90,7 +90,7 @@
       <br/>
       <b>Artificial Intelligence – Udacity</b>
       <br/>
-      <a href="./assets/certificates/AI%20udacity%20cirtificate.pdf">View Certificate ↗</a>
+      <a href="./assets/certificates/Artificial Intelligence Fundamentals-Mahlet Belete.pdf">View Certificate ↗</a>
     </td>
     <td align="center" width="50%">
       <a href="./assets/certificates/Hultprize%20cirtificate%202026.jpg">
@@ -99,7 +99,7 @@
       <br/>
       <b>Hult Prize 2026</b>
       <br/>
-      <a href="./assets/certificates/Hultprize%20cirtificate%202026.jpg">View Certificate ↗</a>
+      <a href="./assets/certificates/Hultprize cirtificate 2026 -Mahlet Belete.jpg">View Certificate ↗</a>
     </td>
   </tr>
   <tr>
@@ -108,18 +108,18 @@
         <img src="./assets/certificates/Programming Fundamentals-Mahlet Belete.png" width="100%" alt="Udacity Certificate 1"/>
       </a>
       <br/>
-      <b>Udacity Certificate 1</b>
+      <b>Programming Fundamentals</b>
       <br/>
-      <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(1).PDF">View Certificate ↗</a>
+      <a href="./assets/certificates/Programming Fundamentals-Mahlet Belete.PDF">View Certificate ↗</a>
     </td>
     <td align="center" width="50%">
       <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(2).PDF">
         <img src="./assets/certificates/Data Analysis Fundamentals-Mahlet Belete.png" width="100%" alt="Udacity Certificate 2"/>
       </a>
       <br/>
-      <b>Udacity Certificate 2</b>
+      <b>Data Analysis Fundamentals</b>
       <br/>
-      <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(2).PDF">View Certificate ↗</a>
+      <a href="./assets/certificates/Data Analysis Fundamentals-Mahlet Belete.PDF">View Certificate ↗</a>
     </td>
   </tr>
   <tr>
@@ -128,9 +128,9 @@
         <img src="./assets/certificates/Android Developer Fundamentals-Mahlet Belete.png" width="100%" alt="Udacity Certificate 3"/>
       </a>
       <br/>
-      <b>Udacity Certificate 3</b>
+      <b>Android Developer Fundamentals</b>
       <br/>
-      <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity.PDF">View Certificate ↗</a>
+      <a href="./assets/certificates/Android Developer Fundamentals-Mahlet Belete.png">View Certificate ↗</a>
     </td>
     <td></td>
   </tr>
