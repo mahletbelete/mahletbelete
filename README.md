@@ -85,7 +85,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="./assets/certificates/AI%20udacity%20cirtificate.pdf">
-        <img src="./assets/certificates/ArtificiaI Intellegence Fundamentals-Mahlet Belete.png" width="100%" alt="AI Udacity Certificate"/>
+        <img src="./assets/certificates/Artificial Intelligence Fundamentals-Mahlet Belete.png" width="100%" alt="AI Udacity Certificate"/>
       </a>
       <br/>
       <b>Artificial Intelligence – Udacity</b>
