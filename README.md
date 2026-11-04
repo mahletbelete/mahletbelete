@@ -105,7 +105,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(1).PDF">
-        <img src="./assets/certificates/Programming Fundamentals-Mahlet Belete" width="100%" alt="Udacity Certificate 1"/>
+        <img src="./assets/certificates/Programming Fundamentals-Mahlet Belete.png" width="100%" alt="Udacity Certificate 1"/>
       </a>
       <br/>
       <b>Udacity Certificate 1</b>
