@@ -37,9 +37,9 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=mahletbelete&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mahlet Belete's GitHub Trophies" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mahletbelete&theme=radical&radius=10" alt="mahletbelete's Activity Graph" />
-</p>
+</p> -->
 
 
 ## 🛠️ Languages & Tools
@@ -81,28 +81,60 @@
 
 ## 🏆 Certifications & Achievements
 
-<p align="center">
-  <a href="./assets/certificates/AI%20udacity%20certificate.pdf">
-    <img src="https://placehold.co/500x350/161b22/58a6ff?text=AI+Udacity+Certificate" width="45%" alt="AI Udacity Certificate"/>
-  </a>
-  <a href="./assets/certificates/Hultprize%20cirtificate%202026.jpg">
-    <img src="./assets/certificates/Hultprize%20cirtificate%202026.jpg" width="45%" alt="Hult Prize Certificate 2026"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(1).PDF">
-    <img src="https://placehold.co/500x350/161b22/58a6ff?text=Udacity+Certificate+2" width="45%" alt="Udacity Certificate 2"/>
-  </a>
-  <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(2).PDF">
-    <img src="https://placehold.co/500x350/161b22/58a6ff?text=Udacity+Certificate+3" width="45%" alt="Udacity Certificate 3"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity.PDF">
-    <img src="https://placehold.co/500x350/161b22/58a6ff?text=Udacity+Certificate+4" width="45%" alt="Udacity Certificate 4"/>
-  </a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./assets/certificates/AI%20udacity%20cirtificate.pdf">
+        <img src="./assets/certificates/ai-udacity-preview.png" width="100%" alt="AI Udacity Certificate"/>
+      </a>
+      <br/>
+      <b>Artificial Intelligence – Udacity</b>
+      <br/>
+      <a href="./assets/certificates/AI%20udacity%20cirtificate.pdf">View Certificate ↗</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="./assets/certificates/Hultprize%20cirtificate%202026.jpg">
+        <img src="./assets/certificates/Hultprize%20cirtificate%202026.jpg" width="100%" alt="Hult Prize Certificate 2026"/>
+      </a>
+      <br/>
+      <b>Hult Prize 2026</b>
+      <br/>
+      <a href="./assets/certificates/Hultprize%20cirtificate%202026.jpg">View Certificate ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(1).PDF">
+        <img src="./assets/certificates/udacity-1-preview.png" width="100%" alt="Udacity Certificate 1"/>
+      </a>
+      <br/>
+      <b>Udacity Certificate 1</b>
+      <br/>
+      <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(1).PDF">View Certificate ↗</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(2).PDF">
+        <img src="./assets/certificates/udacity-2-preview.png" width="100%" alt="Udacity Certificate 2"/>
+      </a>
+      <br/>
+      <b>Udacity Certificate 2</b>
+      <br/>
+      <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(2).PDF">View Certificate ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity.PDF">
+        <img src="./assets/certificates/udacity-3-preview.png" width="100%" alt="Udacity Certificate 3"/>
+      </a>
+      <br/>
+      <b>Udacity Certificate 3</b>
+      <br/>
+      <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity.PDF">View Certificate ↗</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 </p>
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
