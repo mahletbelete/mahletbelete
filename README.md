@@ -85,7 +85,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="./assets/certificates/AI%20udacity%20cirtificate.pdf">
-        <img src="./assets/certificates/ai-udacity-preview.png" width="100%" alt="AI Udacity Certificate"/>
+        <img src="./assets/certificates/ArtificiaI Intellegence Fundamentals-Mahlet Belete.png" width="100%" alt="AI Udacity Certificate"/>
       </a>
       <br/>
       <b>Artificial Intelligence – Udacity</b>
@@ -94,7 +94,7 @@
     </td>
     <td align="center" width="50%">
       <a href="./assets/certificates/Hultprize%20cirtificate%202026.jpg">
-        <img src="./assets/certificates/Hultprize%20cirtificate%202026.jpg" width="100%" alt="Hult Prize Certificate 2026"/>
+        <img src="./assets/certificates/Hultprize cirtificate 2026 -Mahlet Belete.jpg" width="100%" alt="Hult Prize Certificate 2026"/>
       </a>
       <br/>
       <b>Hult Prize 2026</b>
@@ -105,7 +105,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(1).PDF">
-        <img src="./assets/certificates/udacity-1-preview.png" width="100%" alt="Udacity Certificate 1"/>
+        <img src="./assets/certificates/Programming Fundamentals-Mahlet Belete" width="100%" alt="Udacity Certificate 1"/>
       </a>
       <br/>
       <b>Udacity Certificate 1</b>
@@ -114,7 +114,7 @@
     </td>
     <td align="center" width="50%">
       <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity(2).PDF">
-        <img src="./assets/certificates/udacity-2-preview.png" width="100%" alt="Udacity Certificate 2"/>
+        <img src="./assets/certificates/Data Analysis Fundamentals-Mahlet Belete.png" width="100%" alt="Udacity Certificate 2"/>
       </a>
       <br/>
       <b>Udacity Certificate 2</b>
@@ -125,7 +125,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="./assets/certificates/Learn%20the%20Latest%20Tech%20Skills%3B%20Advance%20Your%20Career%20_%20Udacity.PDF">
-        <img src="./assets/certificates/udacity-3-preview.png" width="100%" alt="Udacity Certificate 3"/>
+        <img src="./assets/certificates/Android Developer Fundamentals-Mahlet Belete.png" width="100%" alt="Udacity Certificate 3"/>
       </a>
       <br/>
       <b>Udacity Certificate 3</b>
