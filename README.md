@@ -11,7 +11,6 @@
 ## 📌 About Me
 - 🎓 Software Engineering Student passionate about technology and innovation.
 - 💻 Aspiring Full-Stack Developer focused on building modern web applications.
-- 🌱 Currently learning Laravel, Vue.js, and Machine Learning.
 - 🤖 Interested in Artificial Intelligence and solving real-world problems.
 - 🚀 Love turning creative ideas into practical software solutions.
 - 📚 Always learning, experimenting, and improving my skills.
